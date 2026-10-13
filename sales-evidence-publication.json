@@ -1,0 +1,38 @@
+{
+  "release": "sales-three-evidence-2026-10-13-v1",
+  "sourceCommit": "ae2c76fb487c43da4e1aa181fa815fd56bbcc623",
+  "sourceSha256": "9604e4cde3caf3055609dc2733b68756b2e6f8b726297972cc552f3d92ac30b5",
+  "scope": "Five manual-planning guide translations; no functioning AI claim. Live deployment verified separately.",
+  "routes": [
+    {
+      "path": "index.html",
+      "canonical": "https://ziontechgroup.com/outbound-sequencer-ai/",
+      "locale": "en",
+      "sha256": "b025a1aea5beeb264bef6b689a77674666c9693ad579c0b323ab4aeb2f3b436c"
+    },
+    {
+      "path": "pt/index.html",
+      "canonical": "https://ziontechgroup.com/outbound-sequencer-ai/pt/",
+      "locale": "pt-BR",
+      "sha256": "1504e14b2507e823ccf56ade28b41720e8d5ca747512f4db2227ce8d90c871fa"
+    },
+    {
+      "path": "es/index.html",
+      "canonical": "https://ziontechgroup.com/outbound-sequencer-ai/es/",
+      "locale": "es",
+      "sha256": "e69cfcd1d37f3334cdbdbef8b0fcfd0e484c75dc064bb567ddba7f510e65d68e"
+    },
+    {
+      "path": "fr/index.html",
+      "canonical": "https://ziontechgroup.com/outbound-sequencer-ai/fr/",
+      "locale": "fr",
+      "sha256": "e831e70cad4887f38c6bcdba803d10a75c6226f1fabed099a60a11f81577a0a0"
+    },
+    {
+      "path": "de/index.html",
+      "canonical": "https://ziontechgroup.com/outbound-sequencer-ai/de/",
+      "locale": "de",
+      "sha256": "cf78140246c0851f8fb480cb9bae53049bb5a94618504e342c33fd6e9da27890"
+    }
+  ]
+}
